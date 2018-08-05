@@ -1,0 +1,23 @@
+.text{
+  color: white;
+  font-family: sans-serif;
+  font-style: normal;
+  font-size: 20px;
+}
+
+.header-text{
+  text-decoration: underline;
+  color:aqua;
+}
+
+.a{
+  color: white;
+}
+.important{
+  font-style: italic;
+  color: aqua;
+}
+
+.img{
+  float: left;
+}
